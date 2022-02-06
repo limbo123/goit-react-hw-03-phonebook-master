@@ -1,0 +1,23 @@
+.list {
+    display: flex;
+    flex-direction: row;
+    margin-bottom: 20px;
+    justify-content: space-between;
+    align-items: center;
+    max-width: 350px;
+    height: 40px;
+    background: rgb(241, 241, 241);
+    border-radius: 20px;
+    padding-left: 10px;
+}
+
+.list button {
+    border-radius: 20px;
+    border: none;
+    background: rgb(213, 102, 102);
+    color: #fff;
+    margin-right: 10px;
+}
+
+
+
